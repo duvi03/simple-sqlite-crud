@@ -1,0 +1,2 @@
+E:/Flutter/simple-sqlite-crud/android/app/.cxx/Debug/1x2a2h3s/x86_64/CMakeFiles/edit_cache.dir
+E:/Flutter/simple-sqlite-crud/android/app/.cxx/Debug/1x2a2h3s/x86_64/CMakeFiles/rebuild_cache.dir
